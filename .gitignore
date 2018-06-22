@@ -1,0 +1,16 @@
+# Folders
+.cache/
+.idea/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.vs/
+__pycache__/
+*$py.class
+*.py[cod]
+# Extensions
+*.ffs_db
+*.pyproj
+*.sln
+*.user
