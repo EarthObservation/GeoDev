@@ -7,10 +7,13 @@
 .local/
 .vs/
 __pycache__/
+posnetki/
+# Extensions
 *$py.class
 *.py[cod]
-# Extensions
 *.ffs_db
 *.pyproj
 *.sln
 *.user
+# Files
+sentinelhub.id
