@@ -8,6 +8,7 @@
 .vs/
 __pycache__/
 posnetki/
+posnetki_sub/
 # Extensions
 *$py.class
 *.py[cod]
