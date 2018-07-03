@@ -10,3 +10,5 @@ Na delavnici bomo:
 * analizirali časovno vrsto posnetkov izbranega območja.
 
 Delo bo potekalo na ustrezno opremljenih računalnikih v računalniški učilnici **[UL FGG](https://www.fgg.uni-lj.si/)**. Možno je tudi delo na svojem računalniku, pod pogojem, da ima nameščen in konfiguriran **[Docker](https://www.docker.com/get-docker)**.
+
+Priprava delovnega okolja je opisana v dokumentu [Priprava delovnega okolja](./Priprava%20delovnega%20okolja.md).
